@@ -2,7 +2,7 @@
   "name": "which-transition-event",
   "version": "0.0.1",
   "homepage": "https://github.com/billysbilling/which-transition-event",
-  "main": "src/js/REPLACE-ME.js",
+  "main": "src/which-transition-event.js",
   "billy-builder": {
     "include": [
       "src/js",
@@ -17,8 +17,5 @@
     "tests",
     "Gruntfile.js",
     "package.json"
-  ],
-  "dependencies": {
-    "ember": "billysbilling/bower-ember#master"
-  }
+  ]
 }
