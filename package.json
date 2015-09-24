@@ -1,7 +1,7 @@
 {
   "name": "which-transition-event",
   "version": "0.0.1",
-  "main": "src/which-transition-event.js"
+  "main": "src/which-transition-event.js",
   "devDependencies": {
     "grunt": "~0.4.1",
     "billy-builder": "git://github.com/billysbilling/billy-builder.git"
